@@ -34,7 +34,7 @@ As we've already seen, conversations in issues and pull requests can reference o
 
 The pull request is important because it goes beyond knowing when a commit happened. You can know _why_ a commit happened. Finding history is not about _blaming_ anyone, but about seeing the bigger picture. Why were decisions made? Who was involved? What were the build outputs and test results for each commit? Who requested changes, and who approved them?
 
-### Finding a pull request from a commit
+### Finding a pull request from a commit yolo
 
 When you're looking at a commit on GitHub, you can see a lot of information. From this view, you can also find a link to the pull request in which the commit was created. We'll use this in the next step.
 
